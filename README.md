@@ -11,14 +11,14 @@
 
 <p align="center">
   <a href="https://github.com/laurasc14?tab=repositories"><img alt="Explorar mis repositorios" src="https://img.shields.io/badge/GitHub-Explorar_repositorios-24292F?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-5313281b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-b7851083/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## Perfil
 
-Soy Laura, graduada en Ingeniería Informática y con formación de máster en Big Data y Data Engineering. Me interesa diseñar soluciones que integren, procesen y analicen datos para convertirlos en información útil, clara y accionable.
+Soy Laura, graduada en Ingeniería Informática y con formación de máster en Big Data y Data Engineering. Me interesa diseñar soluciones que integren, procesen y analicen datos para convertirlos en información útil y accionable.
 
-Actualmente curso el Máster de Formación del Profesorado y trabajo como docente. Combino mi interés por la tecnología, la ingeniería de datos y la automatización con la comunicación, la enseñanza y la capacidad de explicarlo de forma clara y estructurada.
+Actualmente curso el Máster de Formación del Profesorado y trabajo como docente. Combino mi interés por la tecnología, la ingeniería de datos y la automatización con la comunicación, la enseñanza y la capacidad de explicar conceptos complejos de forma clara.
 
 ## Intereses en Data Engineering
 
@@ -44,11 +44,11 @@ Actualmente curso el Máster de Formación del Profesorado y trabajo como docent
 
 ### [LoL RealTime Analytics](https://github.com/laurasc14/TFM-LoL-RealTime-Analytics)
 
-Proyecto desarrollado como Trabajo de Fin de Máster en Big Data & Data Engineering. Consiste en una plataforma para explorar y analizar datos de partidas de League of Legends, desde la ingesta hasta la visualización de resultados en tiempo real.
+Proyecto desarrollado como Trabajo de Fin de Máster en Big Data & Data Engineering. Consiste en una plataforma para explorar y analizar datos de partidas de League of Legends, desde la ingesta hasta la visualización en tiempo real.
 
-La solución integra la Riot Games API como fuente, Kafka para la ingesta, Spark Streaming para el procesamiento, MongoDB para el almacenamiento y Streamlit para la construcción del dashboard. El proyecto me permitió trabajar de forma práctica con distintos componentes de un sistema de datos moderno, cubriendo desde la arquitectura hasta la experiencia de usuario.
+La solución integra la Riot Games API como fuente, Kafka para la ingesta, Spark Streaming para el procesamiento, MongoDB para el almacenamiento y Streamlit para la construcción del dashboard. El proyecto permite analizar patrones de juego, estadísticias de campeones y el historial de partidas.
 
-Entre sus funcionalidades destacan la búsqueda de invocadores, la consulta de estadísticas de campeones y el análisis del historial de partidas. Es una muestra clara de mi interés por combinar ingeniería de datos con soluciones útiles, escalables y orientadas a la toma de decisiones.
+Entre sus funcionalidades destacan la búsqueda de invocadores, la consulta de estadísticas de campeones y el análisis del historial de partidas. Es una muestra clara de mi interés por combinar ingeniería de datos, análisis y desarrollo de soluciones prácticas.
 
 ## Formación
 
@@ -58,7 +58,7 @@ Entre sus funcionalidades destacan la búsqueda de invocadores, la consulta de e
 
 ## Docencia y tecnología
 
-Mi trabajo como docente me permite desarrollar habilidades de comunicación, planificación y acompañamiento del aprendizaje. Me gusta aplicar ese enfoque claro y estructurado también al desarrollo de soluciones técnicas, buscando siempre explicar bien los conceptos y generar valor real.
+Mi trabajo como docente me permite desarrollar habilidades de comunicación, planificación y acompañamiento del aprendizaje. Me gusta aplicar ese enfoque claro y estructurado también al desarrollo de soluciones tecnológicas y la interpretación de datos.
 
 ---
 
