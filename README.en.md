@@ -11,7 +11,9 @@
 </p>
 
 <p align="center">
+  <strong>✉️ Contact</strong><br />
   <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-b7851083/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lsolecatala@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lsolecatala@gmail.com-6C757D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ## About me
