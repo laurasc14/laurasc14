@@ -18,7 +18,7 @@
 
 ## About me
 
-Computer engineer with a master's degree in Big Data and Data Engineering. I build streaming pipelines that take data from the source all the way to a dashboard. I also work as a teacher: I enjoy sharing what I learn and learning from others.
+Computer engineer with a master's degree in Big Data and Data Engineering. I build streaming pipelines that take data from the source all the way to a dashboard. I also work as a teacher, so I document and explain what I build so that someone else can maintain it.
 
 ## What I've built
 

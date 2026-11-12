@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-Ingeniera informática con máster en Big Data y Data Engineering. Construyo pipelines de streaming que llevan datos desde la fuente hasta un dashboard. También trabajo como docente: disfruto compartiendo lo que aprendo y aprendiendo de los demás.
+Ingeniera informática con máster en Big Data y Data Engineering. Construyo pipelines de streaming que llevan datos desde la fuente hasta un dashboard. También trabajo como docente, así que documento y explico lo que construyo para que otra persona pueda mantenerlo.
 
 ## Qué he construido
 
