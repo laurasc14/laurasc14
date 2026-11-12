@@ -5,14 +5,20 @@
 </p>
 
 <p align="center">
+  <a href="README.en.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0A66C2?style=for-the-badge" /></a>
+  <a href="README.md"><img alt="Español" src="https://img.shields.io/badge/Idioma-Español-2E8B57?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/laurasc14?tab=repositories"><img alt="Explorar mis repositorios" src="https://img.shields.io/badge/GitHub-Explorar_repositorios-24292F?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-5313281b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## Perfil
 
-Soy Laura, graduada en Ingeniería Informática y con formación de máster en Big Data y Data Engineering. Me interesa diseñar soluciones que permitan integrar, procesar y analizar datos de forma eficiente, así como convertirlos en información útil.
+Soy Laura, graduada en Ingeniería Informática y con formación de máster en Big Data y Data Engineering. Me interesa diseñar soluciones que permitan integrar, procesar y analizar datos de forma eficiente, útil y escalable.
 
-Actualmente curso el **Máster de Formación del Profesorado** y trabajo como **docente**. Combino mi interés por la tecnología y la ingeniería de datos con la comunicación y la enseñanza, áreas que me ayudan a explicar conceptos complejos y colaborar en equipos multidisciplinares.
+Actualmente curso el **Máster de Formación del Profesorado** y trabajo como **docente**. Combino mi interés por la tecnología y la ingeniería de datos con la comunicación y la enseñanza, aplicando un enfoque claro, estructurado y cercano en todo lo que hago.
 
 ## Intereses en Data Engineering
 
@@ -37,11 +43,11 @@ Actualmente curso el **Máster de Formación del Profesorado** y trabajo como **
 
 ### [LoL RealTime Analytics](https://github.com/laurasc14/TFM-LoL-RealTime-Analytics)
 
-Proyecto desarrollado como Trabajo de Fin de Máster en Big Data & Data Engineering. Consiste en una plataforma para explorar y analizar datos de partidas de **League of Legends**, desde la ingesta de información hasta su procesamiento, almacenamiento y visualización.
+Proyecto desarrollado como Trabajo de Fin de Máster en Big Data & Data Engineering. Consiste en una plataforma para explorar y analizar datos de partidas de **League of Legends**, desde la ingestión y el análisis en tiempo real hasta la visualización de métricas clave.
 
-El proyecto integra la **Riot Games API** como fuente de datos, **Kafka** para la ingesta, **Spark Streaming** para el procesamiento, **MongoDB** para el almacenamiento y **Streamlit** para el dashboard interactivo. La arquitectura está contenerizada con **Docker**, facilitando su ejecución y reproducción.
+El proyecto integra la **Riot Games API** como fuente de datos, **Kafka** para la ingesta, **Spark Streaming** para el procesamiento, **MongoDB** para el almacenamiento y **Streamlit** para el dashboard interactivo.
 
-Entre sus funcionalidades se incluyen la búsqueda de invocadores, estadísticas de campeones e historial de partidas. El proyecto me permitió trabajar de forma práctica con distintos componentes de una arquitectura de datos y explorar cómo conectarlos en un flujo de análisis.
+Entre sus funcionalidades se incluyen la búsqueda de invocadores, estadísticas de campeones e historial de partidas. El proyecto me permitió trabajar de forma práctica con distintos componentes del ecosistema de datos distribuidos y aprender a construir soluciones end-to-end con un enfoque analítico y reproducible.
 
 ## Formación
 
@@ -51,7 +57,7 @@ Entre sus funcionalidades se incluyen la búsqueda de invocadores, estadísticas
 
 ## Docencia y tecnología
 
-Mi trabajo como docente me permite desarrollar habilidades de comunicación, planificación y acompañamiento del aprendizaje. Me gusta aplicar ese enfoque claro y estructurado también a la tecnología: comprender las necesidades, explicar las decisiones y construir soluciones útiles.
+Mi trabajo como docente me permite desarrollar habilidades de comunicación, planificación y acompañamiento del aprendizaje. Me gusta aplicar ese enfoque claro y estructurado también a la tecnología, combinando análisis, diseño de soluciones y capacidad de explicarlas de forma accesible.
 
 ---
 
