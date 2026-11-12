@@ -1,66 +1,53 @@
-<!--
-**laurasc14/laurasc14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- README de perfil de GitHub de laurasc14 -->
 # 👩‍💻 Laura Solé Català
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=700&lines=Ingenier%C3%ADa+Inform%C3%A1tica;Big+Data+%26+Data+Engineering;Transformando+datos+en+soluciones" alt="Typing SVG" />
+  <strong>Ingeniera Informática</strong> · <strong>Big Data & Data Engineering</strong> · <strong>Docente</strong>
 </p>
 
 <p align="center">
-  <strong>Estudiante de Ingeniería Informática</strong> · <strong>Máster en Big Data & Data Engineering</strong>
+  <a href="https://github.com/laurasc14?tab=repositories"><img alt="Explorar repositorios" src="https://img.shields.io/badge/Repositorios-Explorar-7C3AED?style=for-the-badge&logo=github" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/laurasc14?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/Repositorios-Explorar-7C3AED?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:laura.solec14@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-22C55E?style=for-the-badge&logo=gmail" /></a>
-</p>
+## 👋 Sobre mí
 
----
+Soy Laura, graduada en Ingeniería Informática y con un máster en Big Data y Data Engineering. Me interesa diseñar soluciones que permitan recoger, transformar y analizar datos de forma eficiente, y convertirlos en información útil.
 
-Hola 👋 Soy Laura, una apasionada de la tecnología, los datos y la capacidad de convertir información en decisiones útiles. Actualmente estoy desarrollando mi Trabajo de Fin de Máster (TFM) en el ámbito del Big Data y la ingeniería de datos, y sigo creciendo cada día aprendiendo nuevas herramientas, metodologías y soluciones.
+Actualmente estoy cursando el **Máster de Formación del Profesorado** y trabajando como **docente**. Compagino esta etapa con mi interés por la ingeniería de datos y por seguir aprendiendo sobre tecnologías y buenas prácticas del sector.
 
-## 🚀 Enfoque actual
+## ⚙️ Áreas de interés
 
-- 🔍 Trabajando en mi TFM sobre datos y análisis avanzado
-- 📊 Interesada en Big Data, Data Engineering y automatización
-- 🧠 Buscando mejorar mis habilidades en arquitectura de datos, pipelines y análisis
-- 🤝 Abierta a colaborar en proyectos de datos, IA y tecnología
+- Diseño y desarrollo de pipelines de datos (ETL/ELT)
+- Procesamiento y transformación de datos
+- Big Data y computación distribuida
+- SQL, calidad y organización de datos
+- Automatización de procesos
 
-## 🧰 Stack y tecnologías
+## 🧰 Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark" />
-  <img src="https://img.shields.io/badge/Big_Data-1F6FEB?style=flat-square" alt="Big Data" />
 </p>
 
-## 📌 Proyectos destacados
+## 📂 Proyectos académicos
 
-- [Neon Pulse - The Infinite Run](https://github.com/laurasc14/Neon-Pulse---The-Infinite-Run) — proyecto enfocado en datos, innovación y desarrollo tecnológico.
-- [Mi perfil de GitHub](https://github.com/laurasc14) — espacio para explorar repositorios, pruebas y aprendizaje continuo.
+- **TFG — Neon Pulse: The Infinite Run** · Proyecto de fin de grado completado. [Ver repositorio](https://github.com/laurasc14/Neon-Pulse---The-Infinite-Run).
+- **TFM — Big Data & Data Engineering** · Trabajo de fin de máster completado.
 
 ## 🎓 Formación
 
-- 📍 Grado en Ingeniería Informática
-- 📍 Máster en Big Data y Data Engineering
+- Máster en Big Data y Data Engineering
+- Grado en Ingeniería Informática
+- Actualmente cursando el Máster de Formación del Profesorado
 
-## 💡 Sobre mí
+## 📬 Encuéntrame
 
-- Me encanta trabajar con datos y resolver problemas complejos.
-- Disfruto automatizando procesos y buscando soluciones eficientes.
-- Siempre estoy aprendiendo, experimentando y compartiendo conocimiento.
-- Me interesa el potencial de la tecnología para generar impacto real.
+- [GitHub](https://github.com/laurasc14)
 
 ---
 
-<p align="center">
-  <i>"Transformar datos en decisiones. Una línea de código a la vez."</i>
-</p>
-
-<p align="center">
-  <a href="https://github.com/laurasc14"><img src="https://img.shields.io/badge/GitHub-laurasc14-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-</p>
+<p align="center"><i>Datos bien diseñados para generar conocimiento y soluciones.</i></p>
