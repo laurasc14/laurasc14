@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="README.en.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0A66C2?style=for-the-badge" /></a>
+  <a href="README.md"><img alt="Español" src="https://img.shields.io/badge/Idioma-Español-2E8B57?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-b7851083/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -15,9 +16,9 @@ Ingeniera informática con máster en Big Data y Data Engineering. Construyo pip
 
 ## Qué he construido
 
-- Pipeline de streaming de extremo a extremo: Kafka → Spark Structured Streaming → MongoDB → Streamlit
-- Ingesta desde una API externa con límites de peticiones (Riot Games API)
-- Entorno reproducible con Docker Compose
+- Pipeline de streaming de extremo a extremo: Riot Games API → Kafka → Spark Structured Streaming → MongoDB → Streamlit
+- Ingesta desde una API externa con límites de peticiones
+- Despliegue reproducible con Docker y Docker Compose
 
 ## Tecnologías
 
@@ -35,17 +36,23 @@ Ingeniera informática con máster en Big Data y Data Engineering. Construyo pip
 
 ### [LoL RealTime Analytics](https://github.com/laurasc14/TFM-LoL-RealTime-Analytics)
 
-Plataforma de analítica en tiempo real sobre partidas de League of Legends (Trabajo de Fin de Máster).
+Plataforma de analítica en tiempo real sobre partidas de League of Legends. Trabajo de Fin de Máster en la Universidad Complutense de Madrid (2025).
 
-![Arquitectura](ruta/al/diagrama.png)
+```mermaid
+flowchart LR
+    A[Riot Games API] --> B[Kafka]
+    B --> C[Spark Structured Streaming]
+    C --> D[(MongoDB)]
+    D --> E[Streamlit Dashboard]
+```
 
-- **Escala:** [X partidas / Y eventos por minuto] procesados
-- **Latencia:** [Z segundos] desde la ingesta hasta el dashboard
-- **Decisión técnica:** [por qué Kafka + Spark y no una alternativa más simple, en una frase]
-- **Funcionalidades:** búsqueda de invocadores, estadísticas de campeones e historial de partidas
+- **Throughput:** más de 300 eventos por segundo en pruebas locales
+- **Latencia media:** ~1,8 segundos de extremo a extremo
+- **Funcionalidades:** búsqueda de invocadores, estadísticas agregadas de campeones e historial de partidas
+- **Siguiente paso:** despliegue en la nube (GCP/AWS/Azure) para validar la escalabilidad
 
 ## Formación
 
-- **Máster en Big Data y Data Engineering** — Universidad Complutense de Madrid, 2024–2025
-- **Grado en Ingeniería Informática** — Universitat Oberta de Catalunya, 2020–2025
-- **Máster de Formación del Profesorado** — UTAMED, en curso
+- **Máster en Big Data y Data Engineering**: Universidad Complutense de Madrid, 2024–2025
+- **Grado en Ingeniería Informática**: Universitat Oberta de Catalunya, 2020–2025
+- **Máster de Formación del Profesorado**: UTAMED, en curso
