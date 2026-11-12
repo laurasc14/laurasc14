@@ -46,7 +46,7 @@ flowchart LR
     D --> E[Streamlit Dashboard]
 ```
 
-- **Throughput:** más de 300 eventos por segundo en pruebas locales
+- **Throughput:** más de 200 eventos por segundo en pruebas locales
 - **Latencia media:** ~1,8 segundos de extremo a extremo
 - **Funcionalidades:** búsqueda de invocadores, estadísticas agregadas de campeones e historial de partidas
 - **Siguiente paso:** despliegue en la nube (GCP/AWS/Azure) para validar la escalabilidad
