@@ -10,33 +10,38 @@
 
 ## Perfil
 
-Soy Laura, ingeniera informática con formación de máster en Big Data y Data Engineering. Me interesa cómo se construyen soluciones de datos fiables: desde la preparación y transformación de la información hasta su procesamiento y uso para resolver problemas reales.
+Soy Laura, graduada en Ingeniería Informática y con formación de máster en Big Data y Data Engineering. Me interesa diseñar soluciones que permitan integrar, procesar y analizar datos de forma eficiente, así como convertirlos en información útil.
 
-Actualmente curso el **Máster de Formación del Profesorado** y trabajo como **docente**. Esta combinación me permite seguir desarrollándome tanto en el ámbito tecnológico como en la comunicación y la enseñanza, competencias que también considero importantes para colaborar en equipos de datos.
+Actualmente curso el **Máster de Formación del Profesorado** y trabajo como **docente**. Combino mi interés por la tecnología y la ingeniería de datos con la comunicación y la enseñanza, áreas que me ayudan a explicar conceptos complejos y colaborar en equipos multidisciplinares.
 
 ## Intereses en Data Engineering
 
-- Diseño y construcción de procesos de integración y transformación de datos (ETL/ELT).
-- Procesamiento de datos con herramientas de Big Data.
-- Organización, calidad y consulta de datos.
-- Automatización de tareas y desarrollo de soluciones reproducibles.
-- Aplicación de la tecnología para convertir datos en información útil.
+- Diseño de pipelines de datos y procesos ETL/ELT
+- Ingesta y procesamiento de datos en tiempo real
+- Procesamiento distribuido y tecnologías Big Data
+- Almacenamiento y consulta de datos
+- Automatización y desarrollo de soluciones reproducibles
 
 ## Tecnologías
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ## Proyecto destacado
 
-### [Neon Pulse: The Infinite Run](https://github.com/laurasc14/Neon-Pulse---The-Infinite-Run)
+### [LoL RealTime Analytics](https://github.com/laurasc14/TFM-LoL-RealTime-Analytics)
 
-Proyecto desarrollado como Trabajo de Fin de Grado. Puedes consultar el repositorio para conocer el planteamiento, las tecnologías utilizadas y el proceso de desarrollo.
+Proyecto desarrollado como Trabajo de Fin de Máster en Big Data & Data Engineering. Consiste en una plataforma para explorar y analizar datos de partidas de **League of Legends**, desde la ingesta de información hasta su procesamiento, almacenamiento y visualización.
+
+El proyecto integra la **Riot Games API** como fuente de datos, **Kafka** para la ingesta, **Spark Streaming** para el procesamiento, **MongoDB** para el almacenamiento y **Streamlit** para el dashboard interactivo. La arquitectura está contenerizada con **Docker**, facilitando su ejecución y reproducción.
+
+Entre sus funcionalidades se incluyen la búsqueda de invocadores, estadísticas de campeones e historial de partidas. El proyecto me permitió trabajar de forma práctica con distintos componentes de una arquitectura de datos y explorar cómo conectarlos en un flujo de análisis.
 
 ## Formación
 
@@ -44,9 +49,9 @@ Proyecto desarrollado como Trabajo de Fin de Grado. Puedes consultar el reposito
 - Grado en Ingeniería Informática
 - Máster de Formación del Profesorado — actualmente en curso
 
-## También me interesa
+## Docencia y tecnología
 
-La docencia me ha permitido fortalecer habilidades como explicar conceptos complejos de forma clara, preparar materiales y acompañar procesos de aprendizaje. Me gusta aplicar esa misma claridad y curiosidad al trabajo tecnológico: entender el problema, compartir ideas y construir soluciones útiles.
+Mi trabajo como docente me permite desarrollar habilidades de comunicación, planificación y acompañamiento del aprendizaje. Me gusta aplicar ese enfoque claro y estructurado también a la tecnología: comprender las necesidades, explicar las decisiones y construir soluciones útiles.
 
 ---
 
