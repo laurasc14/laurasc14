@@ -5,12 +5,13 @@
 </p>
 
 <p align="center">
-  <span><strong>Idiomas</strong></span>
-  <a href="README.en.md"><img alt="English" src="https://img.shields.io/badge/ENGLISH-0A66C2?style=for-the-badge" /></a>
-  <a href="README.md"><img alt="Español" src="https://img.shields.io/badge/ESPA%C3%91OL-2E8B57?style=for-the-badge" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-b7851083/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img alt="Perfil" src="https://img.shields.io/badge/PERFIL-6C757D?style=for-the-badge" /></a>
+  <strong>🌐 Idiomas</strong><br />
+  <a href="README.en.md"><img alt="Read in English" src="https://img.shields.io/badge/ENGLISH-0A66C2?style=for-the-badge" /></a>
+  <a href="README.md"><img alt="Leer en español" src="https://img.shields.io/badge/ESPA%C3%91OL-2E8B57?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-b7851083/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## Sobre mí
