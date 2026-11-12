@@ -5,14 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="README.en.md"><img alt="English" src="https://img.shields.io/badge/Language-English-0A66C2?style=for-the-badge" /></a>
-  <a href="README.md"><img alt="Español" src="https://img.shields.io/badge/Idioma-Español-2E8B57?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-b7851083/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="README.en.md">English</a> · <a href="README.md">Español</a><br />
+  <a href="https://www.linkedin.com/in/laura-sol%C3%A9-catal%C3%A0-b7851083/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ## About me
 
-Computer engineer with a master's degree in Big Data and Data Engineering. I build streaming pipelines that take data from the source all the way to a dashboard. I also work as a teacher, so I document and explain what I build so that someone else can maintain it.
+Computer engineer with a master's degree in Big Data and Data Engineering. I build streaming pipelines that take data from the source all the way to a dashboard. I also work as a teacher: I enjoy sharing what I learn and learning from others.
 
 ## What I've built
 
@@ -56,3 +55,7 @@ flowchart LR
 - **Master's Degree in Big Data and Data Engineering**: Universidad Complutense de Madrid, 2024–2025
 - **Bachelor's Degree in Computer Engineering**: Universitat Oberta de Catalunya, 2020–2025
 - **Master's Degree in Teacher Training**: UTAMED, in progress
+
+---
+
+<p align="center"><em>Data helps us understand the present; curiosity helps us imagine what comes next.</em></p>
