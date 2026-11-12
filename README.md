@@ -1,7 +1,7 @@
 # Laura Solé Català
 
 <p align="center">
-  <strongData Analyst</strong> · SQL · Python · Power BI · R · Spark · Kafka
+  <strong>Data Analyst</strong> · SQL · Python · Power BI · R · Spark · Kafka
 </p>
 
 <p align="center">
