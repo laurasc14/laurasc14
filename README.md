@@ -16,16 +16,17 @@
 
 ## Perfil
 
-Soy Laura, graduada en Ingeniería Informática y con formación de máster en Big Data y Data Engineering. Me interesa diseñar soluciones que permitan integrar, procesar y analizar datos de forma eficiente, útil y escalable.
+Soy Laura, graduada en Ingeniería Informática y con formación de máster en Big Data y Data Engineering. Me interesa diseñar soluciones que integren, procesen y analicen datos para convertirlos en información útil, clara y accionable.
 
-Actualmente curso el **Máster de Formación del Profesorado** y trabajo como **docente**. Combino mi interés por la tecnología y la ingeniería de datos con la comunicación y la enseñanza, aplicando un enfoque claro, estructurado y cercano en todo lo que hago.
+Actualmente curso el Máster de Formación del Profesorado y trabajo como docente. Combino mi interés por la tecnología, la ingeniería de datos y la automatización con la comunicación, la enseñanza y la capacidad de explicarlo de forma clara y estructurada.
 
 ## Intereses en Data Engineering
 
 - Diseño de pipelines de datos y procesos ETL/ELT
-- Ingesta y procesamiento de datos en tiempo real
+- Integración y procesamiento de datos
+- Análisis y visualización de información
 - Procesamiento distribuido y tecnologías Big Data
-- Almacenamiento y consulta de datos
+- Almacenamiento, consulta y explotación de datos
 - Automatización y desarrollo de soluciones reproducibles
 
 ## Tecnologías
@@ -43,11 +44,11 @@ Actualmente curso el **Máster de Formación del Profesorado** y trabajo como **
 
 ### [LoL RealTime Analytics](https://github.com/laurasc14/TFM-LoL-RealTime-Analytics)
 
-Proyecto desarrollado como Trabajo de Fin de Máster en Big Data & Data Engineering. Consiste en una plataforma para explorar y analizar datos de partidas de **League of Legends**, desde la ingestión y el análisis en tiempo real hasta la visualización de métricas clave.
+Proyecto desarrollado como Trabajo de Fin de Máster en Big Data & Data Engineering. Consiste en una plataforma para explorar y analizar datos de partidas de League of Legends, desde la ingesta hasta la visualización de resultados en tiempo real.
 
-El proyecto integra la **Riot Games API** como fuente de datos, **Kafka** para la ingesta, **Spark Streaming** para el procesamiento, **MongoDB** para el almacenamiento y **Streamlit** para el dashboard interactivo.
+La solución integra la Riot Games API como fuente, Kafka para la ingesta, Spark Streaming para el procesamiento, MongoDB para el almacenamiento y Streamlit para la construcción del dashboard. El proyecto me permitió trabajar de forma práctica con distintos componentes de un sistema de datos moderno, cubriendo desde la arquitectura hasta la experiencia de usuario.
 
-Entre sus funcionalidades se incluyen la búsqueda de invocadores, estadísticas de campeones e historial de partidas. El proyecto me permitió trabajar de forma práctica con distintos componentes del ecosistema de datos distribuidos y aprender a construir soluciones end-to-end con un enfoque analítico y reproducible.
+Entre sus funcionalidades destacan la búsqueda de invocadores, la consulta de estadísticas de campeones y el análisis del historial de partidas. Es una muestra clara de mi interés por combinar ingeniería de datos con soluciones útiles, escalables y orientadas a la toma de decisiones.
 
 ## Formación
 
@@ -57,7 +58,7 @@ Entre sus funcionalidades se incluyen la búsqueda de invocadores, estadísticas
 
 ## Docencia y tecnología
 
-Mi trabajo como docente me permite desarrollar habilidades de comunicación, planificación y acompañamiento del aprendizaje. Me gusta aplicar ese enfoque claro y estructurado también a la tecnología, combinando análisis, diseño de soluciones y capacidad de explicarlas de forma accesible.
+Mi trabajo como docente me permite desarrollar habilidades de comunicación, planificación y acompañamiento del aprendizaje. Me gusta aplicar ese enfoque claro y estructurado también al desarrollo de soluciones técnicas, buscando siempre explicar bien los conceptos y generar valor real.
 
 ---
 
